@@ -1,2 +1,18 @@
-# sales-data-analysis
-Sales Data Analysis project using Python, Pandas, and Matplotlib. The dataset was cleaned and analyzed to identify sales trends, top-performing product categories, monthly sales patterns, and regional performance. Includes data visualization and business insights from the Superstore sales dataset.
+Sales Data Analysis Project
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+
+Analysis Performed:
+- Data cleaning
+- Sales by category
+- Top 10 products
+- Monthly sales trend
+- Sales by region
+
+Insights:
+Technology category generated the highest sales.
+Sales increased during the holiday season.
+West region had the highest revenue.
